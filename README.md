@@ -1,12 +1,6 @@
 <h1>Hi, I'm Adriane! </h1>
 
-<h2>👨‍💻 AWS Projects :</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]()
-
-
-<h2>📺Fun Python mini projects </h2>
+<h2>📺Fun-projects </h2>
 
 - [How to get into Cybersecurity Starting From Zero]()
 
