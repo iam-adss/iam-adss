@@ -2,7 +2,6 @@
 
 <h2>📺Fun-projects </h2>
 
-- [How to get into Cybersecurity Starting From Zero]()
 
 
 
