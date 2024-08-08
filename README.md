@@ -2,7 +2,6 @@
 
 <h2>📺Fun-projects </h2>
 
-file:///C:/Users/goryo/OneDrive/Desktop/Lunas%20profile/index.html
 
 
 **iam-adss1** is a ✨ _special_ ✨ repository because its `README.md`
