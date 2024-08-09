@@ -1,5 +1,7 @@
 <h1>Hi, I'm Adriane! </h1>
 
+<p> I graduated from Sheridan College with a Diploma in Electrical/Electronics Engineering Tech. I have a knack for problem solving I combine technical and practical expertise to deliver exeptional result. Im actively prusuing to futher my educattion in Clolud Computing throught AWS and other education platform in tech. I am very excited to tackle new problems and adapt to new skills in the future! </p>
+
 <h2>📺Fun-projects </h2>
 
 https://github.com/iam-adss/dog-resume
