@@ -10,8 +10,7 @@ https://github.com/iam-adss/dog-resume
 
 - 📫 How to reach me: adrianehernandez@yahoo.ca
 
-- 🔭 I’m currently working on understanding the architech of AWS 
-- 🌱 I’m currently learning python and AWS services
+- 🔭 I’m currently working on cloud based projects
 - 💬 Ask me about my journey and why I chose cloud computing
 - ⚡ Fun fact: I run my own barber business @blendss365 on Instagram and Tiktok
 
