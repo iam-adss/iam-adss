@@ -13,6 +13,6 @@
 - 📫 How to reach me: adrianehernandez@yahoo.ca
 
 - 🔭 I’m currently working on cloud based projects
-- 💬 Ask me about my journey and why I chose cloud computing
+- 📄 I got my sights on data analytics next
 - ⚡ Fun fact: I run my own barber business @blendss365 on Instagram and Tiktok
 
