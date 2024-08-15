@@ -4,8 +4,9 @@
 
 <h2>📺Fun-projects </h2>
 
-<p>https://github.com/iam-adss/dog-resume</p>
-<p></p>https://github.com/iam-adss/aws-projects/tree/main/static-website-s3</p>
+<p> DOG RESUME - https://github.com/iam-adss/dog-resume</p>
+<p>S3 STATIC WEB HOSTING - https://github.com/iam-adss/aws-projects/tree/main/static-website-s3</p>
+<p>AWS PROJECTS -  https://github.com/iam-adss/aws-projects</p>
 
 **iam-adss1** is a ✨ _special_ ✨ repository because its `README.md`
 
