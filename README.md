@@ -10,7 +10,9 @@
 
 **iam-adss1** is a ✨ _special_ ✨ repository because its `README.md`
 
-- 📫 How to reach me: https://www.linkedin.com/in/adriane-hernandez-a110b731b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- 📫 How to reach me:
+1. www.linkedin.com/in/
+2. adrianehernandez@yahoo.ca
 
 - 🔭 I’m currently working on cloud based projects
 - 📄 I got my sights on data analytics next
