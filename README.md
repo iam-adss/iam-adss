@@ -14,7 +14,7 @@
 1. www.linkedin.com/in/
 2. adrianehernandez@yahoo.ca
 
-- 🔭 I’m currently working on cloud based projects
+- 🔭 I’m currently working on cloud based projects and more Data integration
 - 📄 I got my sights on data analytics next
 - ⚡ Fun fact: I run my own barber business @blendss365 on Instagram and Tiktok
 
