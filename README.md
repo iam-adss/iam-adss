@@ -7,6 +7,7 @@
 <p> DOG RESUME - https://github.com/iam-adss/dog-resume</p>
 <p>S3 STATIC WEB HOSTING - https://github.com/iam-adss/aws-projects/tree/main/static-website-s3</p>
 <p>AWS PROJECTS -  https://github.com/iam-adss/aws-projects</p>
+<p>SQL DATASET PROJECT</p> - https://github.com/iam-adss/sql_project_data
 
 **iam-adss1** is a ✨ _special_ ✨ repository because its `README.md`
 
