@@ -10,7 +10,7 @@
 ## 🙋🏻‍♂️ ABOUT
  I graduated from Sheridan College with a Diploma in Electrical/Electronics Engineering. I have a knack for problem solving, I combine technical and practical expertise to deliver exceptional result.
 
- Im actively pursuing to further my education in the following
+ Im actively producing projects on the following 
  
  - ☁️ Cloud Computing through AWS training  
  
