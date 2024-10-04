@@ -1,24 +1,33 @@
 # Hi, I'm Adriane 
+### Welcome to my [`README.md`](https://github.com/iam-adss/iam-adss)
 
-<p> I graduated from Sheridan College with a Diploma in Electrical/Electronics Engineering. I have a knack for problem solving, I combine technical and practical expertise to deliver exeptional result. Im actively pursuing to futher my education in Cloud Computing throught AWS training and Data Anaylsis with SQL, Postgres and Dashboard tools. I am very excited to tackle new problems and adapt to new skills in the future! </p>
+## 📫 HOW TO REACH ME
 
-# 📂 PROJECT PIPELINE 
+- www.linkedin.com/in/
 
-## DOG RESUME - https://github.com/iam-adss/dog-resume</p>
+- adrianehernandez@yahoo.ca
 
-## S3 STATIC WEB HOSTING - https://github.com/iam-adss/aws-projects/tree/main/static-website-s3
+## 🙋🏻‍♂️ ABOUT
+ I graduated from Sheridan College with a Diploma in Electrical/Electronics Engineering. I have a knack for problem solving, I combine technical and practical expertise to deliver exceptional result.
 
-## AWS PROJECTS -  https://github.com/iam-adss/aws-projects
+ Im actively pursuing to further my education in the following
+ 
+ - ☁️ Cloud Computing through AWS training  
+ 
+ - 📊 Data/Business Analysis with SQL, Postgres and SQLite
+ 
+ 
+ ## ⚡ PROJECTS 
 
-## SQL DATASET PROJECT -https://github.com/iam-adss/sql_project_data
 
-**iam-adss1** is a ✨ _special_ ✨ repository because its [`README.md`](https://github.com/iam-adss/iam-adss)
+### S3 STATIC WEBSITE HOSTING - https://github.com/iam-adss/aws-projects/tree/main/static-website-s3
 
-- 📫 How to reach me:
-1. www.linkedin.com/in/
-2. adrianehernandez@yahoo.ca
+### AWS CLOUD PROJECTS -  https://github.com/iam-adss/aws-projects
 
-- 🔭 I’m currently working on cloud based projects and Datasets 
+### SQL DATASET PROJECT -https://github.com/iam-adss/sql_project_data
 
-- ⚡ Fun fact: I run my own barber business @blendss365 on Instagram and Tiktok
+### DOG RESUME - https://github.com/iam-adss/dog-resume
+
+
+
 
